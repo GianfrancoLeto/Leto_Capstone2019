@@ -13,6 +13,6 @@
   	![](demos/portDemo.gif)
     
 - [ ] Buffer Overflow
-- In this final example we show an overflow attempt on a vulnerable remote peercast program. The metasploit "peercast_url.rb" file has been modified to simulate a NOP sled as well. We can see here that shortly after the exploit is run, the tool blocks the attacker the second a sled has been identified.
+- In this final example we show an overflow attempt on a vulnerable remote peercast program. The metasploit "peercast_url.rb" file has been modified to simulate a NOP sled as well. We can see here that shortly after the exploit is run, the tool blocks the attacker the second a sled has been identified and metasploit indicats that no session was created.
   - [ ] GIF Walkthrough: 
   	![](demos/bufferDemo.gif)
